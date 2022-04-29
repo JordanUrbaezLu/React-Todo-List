@@ -1,0 +1,9 @@
+#container {
+  background-color: gray;
+  padding: 20px;
+  margin: 100px;
+}
+
+#todo__list-container {
+  background-color: red;
+}
